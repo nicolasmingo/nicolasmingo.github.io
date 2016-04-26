@@ -1,6 +1,6 @@
 # Site settings
 title: Nicolas Mingo
-email: your-email@domain.com
+email: nicolas(dot)mingo@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,9 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nicolasmingo.github.io" # the base hostname & protocol for your site
 twitter_username: nicolas_mingo
 github_username:  nicolasmingo
-google_play: 'GDGX'
+google_play: 'nicolasmingo'
 google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
+google_plus_per: '+nicolasmingo'  #Personal link
 facebook_app_id: 12345
 
 # Layout settings
@@ -23,15 +23,9 @@ more_vert:
   option1:
     name: Cool Option 1
     link: www.myawesomelink.com
-  option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
-  option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
 
-disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus: false
+disqus_shortname: 'nicolasmingo'
 
 # Build settings
 markdown: kramdown
