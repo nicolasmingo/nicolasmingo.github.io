@@ -29,3 +29,5 @@ disqus_shortname: 'nicolasmingo'
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
